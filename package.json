@@ -10,8 +10,8 @@
     "bootstrap": "^5.2.0",
     "gh-pages": "^4.0.0",
     "html-react-parser": "^1.4.12",
-    "jquery": "^3.6.0",
-    "react": "^18.1.0",
+    "jquery": "^3.6.1",
+    "react": "^18.2.0",
     "react-dom": "^18.1.0",
     "react-responsive": "^9.0.0-beta.8",
     "react-scripts": "5.0.1",
@@ -46,7 +46,6 @@
   },
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aminahayat/React-Portfolio.git"
